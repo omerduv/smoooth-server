@@ -28,7 +28,6 @@
   },
   "dependencies": {
     "express": "^4.15.4",
-    "mongo": "^0.1.0",
     "request": "^2.81.0",
     "with-query": "^1.0.2"
   },
